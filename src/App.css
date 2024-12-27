@@ -1,0 +1,8 @@
+.App{
+  width: 100vw;
+  min-height: 1025px;
+  max-height: auto;
+  font-family: "Montserrat", sans-serif;
+  background: linear-gradient(180deg, #ffffff 20%,#cccccc);
+}
+

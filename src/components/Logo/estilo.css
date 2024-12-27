@@ -1,0 +1,25 @@
+.logo{
+  display: flex;   
+  justify-content: space-between;
+  background-color: #1d388a;
+  height: auto;
+  padding: 0 100px;
+  
+}
+
+.logo img {
+  height: 60px;
+  padding: 40px 0;
+  
+}
+
+.logo p {
+  color:#eb7900;  
+  font-size: 2rem;
+  padding: 20px 0;
+}
+
+.opcoes{
+  display: flex;
+}
+
